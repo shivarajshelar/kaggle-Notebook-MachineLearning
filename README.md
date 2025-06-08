@@ -8,10 +8,7 @@ This repository contains a Kaggle notebook that explores the housing dataset usi
 - [Dataset](#dataset)
 - [Data Preprocessing](#data-preprocessing)
 - [Modeling Techniques](#modeling-techniques)
-- [Results](#results)
-- [Conclusion](#conclusion)
-- [References](#references)
-
+- [Conclusion](#Conclusion)  
 ## Introduction
 In this analysis, we aim to predict housing prices based on various features. The dataset contains missing values, categorical data, and features with different scales, which necessitate careful preprocessing before applying machine learning algorithms.
 
@@ -19,9 +16,10 @@ In this analysis, we aim to predict housing prices based on various features. Th
 The dataset used in this analysis is [insert dataset name or description]. It includes features such as:
 - Total number of rooms
 - Median income
-- [Add other relevant features]
+- median_house_value
+- housing_median_age
 
-You can find the dataset [here](insert link to dataset if applicable).
+You can find the dataset [here](https://www.kaggle.com/datasets/camnugent/california-housing-prices).
 
 ## Data Preprocessing
 Data preprocessing is a crucial step in preparing the dataset for modeling. The following techniques were applied:
