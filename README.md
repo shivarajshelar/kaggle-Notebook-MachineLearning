@@ -10,7 +10,7 @@ It includes hands-on projects using popular datasets such as **Titanic**, **MNIS
 - `create-machine-leaning-pipeline.ipynb` → Building a machine learning pipeline by combining transformers and estimators.  
 - `decision-tree.ipynb` → Implementing and understanding the **CART Training Algorithm** for decision trees.  
 - `global-air-quality-index.ipynb` → Analysis of global air quality data (EDA, visualization, and ML).  
-- `machine-learning-housing-project.ipynb` → A complete ML project on housing prices, including data cleaning, feature engineering, and model training.  
+- `machine-learning-housing-project.ipynb` → A complete ML project on housing prices, including data cleaning, feature engineering, and    model training.  
 - `mnist.ipynb` → Classification of handwritten digits using Random Forest.  
 - `titanic-project-data.ipynb` → Titanic dataset classification project (survival prediction).  
 - `training-the-models.ipynb` → Studying **bias and variance** while training models.  
@@ -19,17 +19,17 @@ It includes hands-on projects using popular datasets such as **Titanic**, **MNIS
 
 ## 📊 Datasets
 
-- **[Titanic Dataset](https://www.kaggle.com/c/titanic/data)** → Passenger data (age, gender, class, etc.) used to predict survival outcomes.  
-- **[MNIST Dataset](http://yann.lecun.com/exdb/mnist/)** → 70,000 handwritten digit images (0–9) for classification.  
-- **[California Housing Dataset](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset)** → Used for predicting median house values.  
-- **[Global Air Quality Index](https://www.kaggle.com/datasets/)** → Contains pollution levels across different cities/countries.  
-- **Synthetic/Generated Data** → Used in pipeline and bias-variance tradeoff experiments.  
+- **[Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)** → Passenger data (age, gender, class, etc.) used to predict survival outcomes.  
+- **[MNIST Dataset](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv)** → 70,000 handwritten digit images (0–9) for classification.  
+- **[California Housing Dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices)** → Used for predicting median house values.  
+- **[Global Air Quality Index](https://www.kaggle.com/datasets/youssefelebiary/global-air-quality-2023-6-cities)** → Contains pollution levels across different cities/countries.  
+- **[Social Media Addiction Dataset](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships)** → Used in pipeline and bias-variance tradeoff experiments.  
 
 ---
 ## 🛠️ Tech Stack
 
 - **Languages:** Python 3.x  
-- **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, Jupyter  
+- **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn
 - **Concepts Covered:**  
   - Exploratory Data Analysis (EDA)  
   - Data Cleaning & Preprocessing  
